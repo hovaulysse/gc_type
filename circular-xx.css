@@ -1,0 +1,100 @@
+/* 
+ * Circular XX Font Declarations
+ * Github: https://github.com/hovaulysse/gc_type
+ */
+
+/* Circular XX Book */
+@font-face {
+  font-family: 'Circular XX';
+  src: url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXWeb-Book.woff2') format('woff2'),
+       url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXWeb-Book.woff') format('woff'),
+       url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXSub-Book.woff2') format('woff2'),
+       url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXSub-Book.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Circular XX Book Italic */
+@font-face {
+  font-family: 'Circular XX';
+  src: url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXWeb-BookItalic.woff2') format('woff2'),
+       url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXWeb-BookItalic.woff') format('woff'),
+       url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXSub-BookItalic.woff2') format('woff2'),
+       url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXSub-BookItalic.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Circular XX Medium */
+@font-face {
+  font-family: 'Circular XX';
+  src: url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXWeb-Medium.woff2') format('woff2'),
+       url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXWeb-Medium.woff') format('woff'),
+       url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXSub-Medium.woff2') format('woff2'),
+       url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXSub-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Circular XX Medium Italic */
+@font-face {
+  font-family: 'Circular XX';
+  src: url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXWeb-MediumItalic.woff2') format('woff2'),
+       url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXWeb-MediumItalic.woff') format('woff'),
+       url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXSub-MediumItalic.woff2') format('woff2'),
+       url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXSub-MediumItalic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Circular XX Bold */
+@font-face {
+  font-family: 'Circular XX';
+  src: url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXWeb-Bold.woff2') format('woff2'),
+       url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXWeb-Bold.woff') format('woff'),
+       url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXSub-Bold.woff2') format('woff2'),
+       url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXSub-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Circular XX Bold Italic */
+@font-face {
+  font-family: 'Circular XX';
+  src: url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXWeb-BoldItalic.woff2') format('woff2'),
+       url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXWeb-BoldItalic.woff') format('woff'),
+       url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXSub-BoldItalic.woff2') format('woff2'),
+       url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXSub-BoldItalic.woff') format('woff');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Circular XX Black */
+@font-face {
+  font-family: 'Circular XX';
+  src: url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXWeb-Black.woff2') format('woff2'),
+       url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXWeb-Black.woff') format('woff'),
+       url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXSub-Black.woff2') format('woff2'),
+       url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXSub-Black.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Circular XX Black Italic */
+@font-face {
+  font-family: 'Circular XX';
+  src: url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXWeb-BlackItalic.woff2') format('woff2'),
+       url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXWeb-BlackItalic.woff') format('woff'),
+       url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXSub-BlackItalic.woff2') format('woff2'),
+       url('https://raw.githubusercontent.com/hovaulysse/gc_type/main/CircularXXSub-BlackItalic.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
